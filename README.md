@@ -25,6 +25,7 @@ Installation Instructions for Android:
 
 CD YPG
 chmod +x YPG.sh
+
 7. To use this program type:
 CD YPG
 ./YPG.sh
