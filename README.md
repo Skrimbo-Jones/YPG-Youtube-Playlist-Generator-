@@ -1,5 +1,5 @@
 # OurTube
-A simple way to access and save the most recently uploaded video of a YouTube creator with no account and no feeds.
+A simple way to access and save the most recently uploaded video via playlist of a YouTube creator with no account and no feeds.
 
 Requirements: 
 Curl
