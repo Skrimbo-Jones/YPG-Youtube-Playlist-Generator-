@@ -4,10 +4,8 @@ A simple way to access and save the most recently uploaded video of a YouTube cr
 Requirements: 
 Curl
 
-Supported Systems:
+Supported System:
 Linux
-
-Windows(Soon™)
 
 
 This code was not made by ai. 
