@@ -24,8 +24,11 @@ Installation Instructions for Android:
 6. Open Termux and type this, pressing enter after each line.
 
 CD YPG
+
 chmod +x YPG.sh
 
 7. To use this program type:
+
 CD YPG
+
 ./YPG.sh
