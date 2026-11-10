@@ -19,7 +19,7 @@ Installation Instructions for Android:
 1. Download Materials Files and Termux
 2. In Material Files, tap the options icon in the top left and then tap add storage.
 3. Select the option "Android/data". This opens a link to the data directories of your installed apps.
-4. Locate the YPG folder and hold to select it. tap the three dots in the top right corner and tap copy to.
+4. Locate the YPG folder (It should be in your downloads by default) and hold to select it. tap the three dots in the top right corner and tap copy to.
 5. Tap the options in the top left of the new screen that opens and select the Termux option and click copy.
 6. Open Termux and type this, pressing enter after each line.
 
